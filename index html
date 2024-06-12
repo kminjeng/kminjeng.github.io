@@ -5,10 +5,12 @@
     <title>기말고사 과제 제출 권민정 자기소개서</title>
     <style>
     body {
-    color: violet;
-    background-color: yellow;
-    font-size: 60px;
+body {
+    color:blueviolet;
+    background-color: aqua;
+    font-size: 30px;
     font-weight: bold;
+
 }
 </head>
 <body>
