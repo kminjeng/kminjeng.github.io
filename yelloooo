@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>  <!-- HTML5 문서임을 알려줌 -->
 <html>
 <head>
     <meta charset="utf-8">  <!-- 한글이 정상적으로 보이도록 설정 -->
@@ -7,10 +7,11 @@
     <style>
     body {
     color:white;
-    background-color: yello;
-    font-size: 35px;
+    background-color: pink;
+    font-size: 30px;
     font-weight: bold;
 }
+    </style>
 </head>
 <body>
 <h1>권민정 자기소개서</h1>
@@ -31,4 +32,6 @@
 <p>많은 사람들은 공항에서 유니폼을 입고 일을 하고 있으며 승무원이라는 생각을 지니고 있습니다.</p>
 <p>하지만 공항에서 티켓 발급과 수화물 등을 도와주는 직원들은 지상직이라는 명칭으로 불리고 있으며 항공운항직이라고 말하기도 합니다.</p>
 <p>많은 사람들이 항공운항직을 잘 알 수 있도록 하는 것이 저의 최종 목표입니다.</p>        
+
 </body>
+</html>
